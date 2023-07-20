@@ -64491,7 +64491,7 @@ return new A.bc(1/0,null,new A.hW(this.wH(a,a.I(t.w).f.a.a*0.8),r,s,null),null)}
 wH(a,b){var s=null,r=t.p,q=A.e2(A.a([A.cb("Productive ,\n   Experienced",A.cW(s,18,B.Z,1.8,2),s,s),A.jP(s,A.iF(A.cb("DOWNLOAD CV",A.cW(B.ad,16,B.Z,s,s),s,s),B.aE,s,s,s),B.Y,!1,s,s,s,s,s,s,s,s,s,s,new A.a51(),s,s,s,s,s,s)],r),B.D,B.eh,B.r),p=A.cb("What I Do?",A.cW(s,35,B.Z,1.3,s),s,s),o=A.cb("I may not be perfect, but I'm surely of some help",A.cW(B.cC,14,s,s,s),s,s),n=a.I(t.w).f.a.a>=1200?140:70
 return A.qP(B.aS,s,s,s,s,A.fj(A.a([q,B.cn,p,B.kC,o,new A.bc(s,n,s,s),A.pp(new A.a52(this)),B.vL,A.ba(B.P,new A.hM(new A.a53(a),s),s,s,s,s,s,s,s,s)],r),B.D,B.L,B.r),!1,s,s,!1,1,s,s,s,b,s,s,b,s,!0,!1)}}
 A.a51.prototype={
-$0(){A.f8("https://github.com/sivanandamarun/sivanandam.github.io/tree/main/assets/assets/resume/SivanandamFlutterResume.pdf")},
+$0(){A.f8("https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf")},
 $S:0}
 A.a52.prototype={
 $3(a,b,c){var s=this.a.c,r=A.a9(s).i("a6<1,cr>")

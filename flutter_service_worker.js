@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "220399807b4f448aca23517f11361fb0",
+  "assets/AssetManifest.json": "5620d394d836f68a8bddcd122ecc59c1",
+"assets/assets/files/SivanandamFlutterResume.pdf": "836a81830f329897787f145ccb13eb65",
 "assets/assets/images/blog.png": "383501168390c3833d9c81843c33d566",
 "assets/assets/images/develop.png": "723c47f15273f7013cacb03032b547c2",
 "assets/assets/images/learn.png": "7827c9e2366da4aaeec20a4342b76953",
@@ -33,7 +34,6 @@ const RESOURCES = {
 "assets/assets/images/technology/razorpay.png": "368b761622d88029de7be2aadff6b7d3",
 "assets/assets/images/technology/scenekit.jpeg": "dab8749c82628f14b8e5865b6a852cc3",
 "assets/assets/images/technology/swift.png": "6740f74615e8d2b6558d7d31fc7edb1e",
-"assets/assets/resume/SivanandamFlutterResume.pdf": "836a81830f329897787f145ccb13eb65",
 "assets/assets/svg/guy.svg": "384b0cd380b8ce087e170fe5b3dc7f6b",
 "assets/assets/svg/person.svg": "00abbb5ba3e0acac159c8a7a664b7750",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -53,9 +53,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e62dae218db3c7c546136fe05e241982",
-"/": "e62dae218db3c7c546136fe05e241982",
-"main.dart.js": "14fe15664d9779f6cc4275657fc638a4",
+"index.html": "3e8b413cb9ea273d97c856598b86208f",
+"/": "3e8b413cb9ea273d97c856598b86208f",
+"main.dart.js": "d6725914511602eca90650e0b52541d8",
 "manifest.json": "e2b9103aaafaf8ed9f90576c9d9a1341",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
